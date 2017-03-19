@@ -189,6 +189,7 @@ For the first image, the model is almost sure that this is a general caution sig
 
 
 For the second image, the model is almost sure that this is a yield sign (probability of 1.00), and the image does contain a yield sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 1.00         			| Yield 										| 
@@ -199,6 +200,7 @@ For the second image, the model is almost sure that this is a yield sign (probab
 
 
 For the third image, the model is almost sure that this is a speed limit (30 km/h) sign (probability of 1.00), and the image does contain a speed limit (30 km/h). The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 1.00         			| 30 km/h 										| 
@@ -209,6 +211,7 @@ For the third image, the model is almost sure that this is a speed limit (30 km/
 
 
 For the fourth image, the model is almost sure that this is a speed limit (30 km/h) sign (probability of 1.00), and the image does contain a speed limit (30 km/h). The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 1.00         			| Bumpy road 									| 
@@ -219,6 +222,7 @@ For the fourth image, the model is almost sure that this is a speed limit (30 km
 
 
 For the fifth image, the model is relatively sure that this is a roundabout mandatory sign (probability of 0.65), and the image does contain a roundabout mandatory sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        					| 
 |:---------------------:|:---------------------------------------------:| 
 | 0.65         			| Roundabout mandatory 							| 
@@ -229,6 +233,7 @@ For the fifth image, the model is relatively sure that this is a roundabout mand
 
 
 For the sixth image, the model is almost sure that this is a priority road sign (probability of 1.00), and the image does contain a priority road sign. The top five soft max probabilities were
+
 | Probability         	|     Prediction	        							| 
 |:---------------------:|:-----------------------------------------------------:| 
 | 1.00         			| Priority road 										| 
