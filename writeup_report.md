@@ -1,6 +1,8 @@
 #**Traffic Sign Recognition** 
 
+##Writeup Report
 
+---
 **Build a Traffic Sign Recognition Project**
 
 The goals / steps of this project are the following:
@@ -14,14 +16,14 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./writeup/visualization.png "Visualization"
-[image2]: ./writeup/exploration.jpg "Exploration"
-[image3]: ./writeup/1.jpg "Traffic Sign 1"
-[image4]: ./writeup/12.jpeg "Traffic Sign 2"
-[image5]: ./writeup/13.jpeg "Traffic Sign 3"
-[image6]: ./writeup/18.jpeg "Traffic Sign 4"
-[image7]: ./writeup/22.jpeg "Traffic Sign 5"
-[image8]: ./writeup/40.jpg "Traffic Sign 6"
+[image1]: ./writeup_images/visualization.png "Visualization"
+[image2]: ./writeup_images/exploration.png "Exploration"
+[image3]: ./writeup_images/1.jpg "Traffic Sign 1"
+[image4]: ./writeup_images/12.jpeg "Traffic Sign 2"
+[image5]: ./writeup_images/13.jpeg "Traffic Sign 3"
+[image6]: ./writeup_images/18.jpeg "Traffic Sign 4"
+[image7]: ./writeup_images/22.jpeg "Traffic Sign 5"
+[image8]: ./writeup_images/40.jpg "Traffic Sign 6"
 
 ## Rubric Points
 ###Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
