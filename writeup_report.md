@@ -155,6 +155,8 @@ The first image might be difficult to classify due to limited resolution of char
 
 The color of the outer square is not quite the same as those in the training data, which might cause some confusions to the network.
 
+Difficulties may be encountered at the fifth image as the details inside the circular plate would be too small to be clearly distinguishable from other signs with blue background after scaling to 32x32.
+
 ####2. Discuss the model's predictions on these new traffic signs and compare the results to predicting on the test set. Identify where in your code predictions were made. At a minimum, discuss what the predictions were, the accuracy on these new predictions, and compare the accuracy to the accuracy on the test set (OPTIONAL: Discuss the results in more detail as described in the "Stand Out Suggestions" part of the rubric).
 
 The code for making predictions on my final model is located in the 12th and 13th cells of the Ipython notebook.
